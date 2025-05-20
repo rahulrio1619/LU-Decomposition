@@ -42,11 +42,8 @@ print(solution)
 
 ## Output:
 ![lu decomposition]()
-![image](https://github.com/user-attachments/assets/3cef6db4-629e-4445-bd32-ff8cf46d55ac)
-![image](https://github.com/user-attachments/assets/3464166c-f272-433a-b4dc-376a2089f365)
-
-
-
+![image](https://github.com/user-attachments/assets/9a7c3dd7-950f-40ac-85a1-7da2df527198)
+![image](https://github.com/user-attachments/assets/84d0a6cc-dc87-417d-b6db-4ebc575f027a)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
